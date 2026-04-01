@@ -1,5 +1,3 @@
-me iname changed 
-
 # Python Program to calculate the square root
 
 # Note: change this value for a different result
